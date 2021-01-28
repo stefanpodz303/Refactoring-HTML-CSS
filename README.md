@@ -1,6 +1,6 @@
-# homework1
+# Refactoring-HTML-CSS
 
-screenshot, 
+![screenshot of webpage] () 
 
 link the deployed webpage
 
